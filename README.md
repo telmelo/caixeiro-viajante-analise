@@ -74,3 +74,9 @@ lscpu | grep "Model name"; free -h; cat /etc/os-release | head -2; g++ --version
 O limitador muda a força bruta: melhor, médio e pior caso **passam a ser diferentes** (dependem do mapa).
 O Held-Karp não muda, porque preenche a tabela inteira de qualquer jeito.
 O programa da força bruta conta os nós visitados (`nos`), e o gráfico 2 mostra que o tempo é proporcional a eles.
+
+## Autores
+Este estudo foi idealizado e conduzido por
+- Sofia Pan Yu - spy@cesar.school
+- Telmo Melo Ferreira Calheiros - tmfc@cesar.school
+- Hugo Tenorio Gomes - htng@cesar.school
